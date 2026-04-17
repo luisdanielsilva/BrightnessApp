@@ -29,7 +29,7 @@ In a world of bloated software, **BrightnessApp** follows the philosophy of prec
 
 ## Licensing
 
-This application is part of the **LS Developer Suite**. A lifetime pro license can be generated via the [Single Use Apps Portal](http://singleuseapps.epizy.com).
+This application is part of the **Single Use Apps** collection. A lifetime pro license can be generated via the [Single Use Apps Portal](http://singleuseapps.epizy.com).
 
 ---
 Proudly developed in Porto, Portugal. 🇵🇹
